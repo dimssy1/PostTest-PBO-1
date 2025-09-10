@@ -41,8 +41,5 @@ Penjelasan Logika Program
    System.out.println("Pilihan tidak valid. Silakan pilih antara 1 hingga 5.");
    untuk menangani input yang tidak valid.
 
-"EskulBasket.java Kelas ini belum memiliki isi dan tidak digunakan karena untuk pengembangan projek selanjutnya"
-
 <img width="875" height="944" alt="Screenshot 2025-09-09 154012" src="https://github.com/user-attachments/assets/11b2a870-2e10-4ce6-a07d-4d9702a878fa" />
 <img width="1002" height="864" alt="Screenshot 2025-09-09 154029" src="https://github.com/user-attachments/assets/4fcc59e9-1c62-4c87-8159-51dc64bf41f7" />
-<img width="901" height="408" alt="Screenshot 2025-09-09 154045" src="https://github.com/user-attachments/assets/a662f7ed-a598-41a0-9062-95248e6846f5" />
